@@ -2828,10 +2828,10 @@ cssesc@^3.0.0:
   resolved "https://registry.yarnpkg.com/cssesc/-/cssesc-3.0.0.tgz#37741919903b868565e1c09ea747445cd18983ee"
   integrity sha512-/Tb/JcjK111nNScGob5MNtsntNM1aCNUDipB/TkwZFhyDrrE47SOx/18wF2bbjgc3ZzCSKW1T5nt5EbFoAz/Vg==
 
-csstype@^2.5.7:
-  version "2.6.6"
-  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.6.tgz#c34f8226a94bbb10c32cc0d714afdf942291fc41"
-  integrity sha512-RpFbQGUE74iyPgvr46U9t1xoQBM8T4BL8SxrN66Le2xYAPSaDJJKeztV3awugusb3g3G9iL8StmkBBXhcbbXhg==
+csstype@^2.6.7:
+  version "2.6.21"
+  resolved "https://registry.yarnpkg.com/csstype/-/csstype-2.6.21.tgz#2efb85b7cc55c80017c66a5ad7cbd931fda3a90e"
+  integrity sha512-Z1PhmomIfypOpoMjRQB70jfvy/wxT50qW08YXO5lMIJkrdq4yOTR+AW7FqutScmB9NkLwxo+jU+kZLbofZZq/w==
 
 currently-unhandled@^0.4.1:
   version "0.4.1"
@@ -4921,19 +4921,19 @@ jsx-ast-utils@^2.1.0, jsx-ast-utils@^2.2.1:
     array-includes "^3.0.3"
     object.assign "^4.1.0"
 
-jsxstyle-utils@^2.1.5:
-  version "2.1.5"
-  resolved "https://registry.yarnpkg.com/jsxstyle-utils/-/jsxstyle-utils-2.1.5.tgz#c49990af96ad70e6940e611e64101219051319ef"
-  integrity sha512-a6Is5V/GXTwjns2T8+ZByk0LF4FR3SDOicKPpXXK3d36ivs/Y4hPnDJTnVpoIOm3ZWJnasCTpTeq9BlpfmAGig==
+jsxstyle-utils@^2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/jsxstyle-utils/-/jsxstyle-utils-2.5.0.tgz#457f3ae258ff774409d5a36cc22d0a8c29c35bd0"
+  integrity sha512-Egs051eTn+jywl4vqySypTAVaPOeIKqYnK8ACd7zFmSVXSvV0OdKELYm1DuztVaQiZNmtchF+dmTFocBMK5ntQ==
   dependencies:
-    csstype "^2.5.7"
+    csstype "^2.6.7"
 
-jsxstyle@^2.1.1:
-  version "2.1.6"
-  resolved "https://registry.yarnpkg.com/jsxstyle/-/jsxstyle-2.1.6.tgz#aa004f351c5e4ec833befc1234f412c52d2b2182"
-  integrity sha512-/fkSII1mrJP3QTmpdBa0dETpqD7q9Lbe+2WGUxjzadDB/3xfTPPLl0NBt4LLvC2CBASt7drxTFlD9YPJYXEBLg==
+jsxstyle@^2.5.1:
+  version "2.5.1"
+  resolved "https://registry.yarnpkg.com/jsxstyle/-/jsxstyle-2.5.1.tgz#53e9b435673857a19db59a70d95de918529387fd"
+  integrity sha512-JboG+WT/+O93e2+QjMi4orfBY97S6IPv541gJav2crCajvRM7X4Z+zXHoBfK5LRkGVzXrXllP/63kgupjhi88w==
   dependencies:
-    jsxstyle-utils "^2.1.5"
+    jsxstyle-utils "^2.5.0"
 
 killable@^1.0.1:
   version "1.0.1"
