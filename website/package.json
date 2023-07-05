@@ -13,7 +13,7 @@
     "@babel/preset-env": "^7.7.1",
     "@babel/preset-react": "^7.7.0",
     "@codesandbox/react-embed": "0.0.14",
-    "@typescript-eslint/eslint-plugin": "2.x",
+    "@typescript-eslint/eslint-plugin": "2.34.0",
     "@typescript-eslint/parser": "2.x",
     "animated": "^0.2.1",
     "babel-eslint": "10.x",
