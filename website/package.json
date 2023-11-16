@@ -26,7 +26,7 @@
     "babel-preset-react": "^6.5.0",
     "bundle-loader": "^0.5.5",
     "cheerio": "^0.22.0",
-    "copy-webpack-plugin": "^4.0.1",
+    "copy-webpack-plugin": "^5.0.5",
     "cross-env": "^6.0.0",
     "css-loader": "^2.1.1",
     "eslint": "6.x",
