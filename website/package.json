@@ -29,7 +29,7 @@
     "copy-webpack-plugin": "^4.0.1",
     "cross-env": "^6.0.0",
     "css-loader": "^2.1.1",
-    "eslint": "6.x",
+    "eslint": "9.0.0",
     "eslint-config-react-app": "^5.0.2",
     "eslint-plugin-flowtype": "3.x",
     "eslint-plugin-import": "2.x",
